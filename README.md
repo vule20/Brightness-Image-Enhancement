@@ -11,12 +11,12 @@ run demo.m
 
 ### Original low light image
 <div align="center">
-     <img src="test_img/hive_ntu_6.png" width="120">
+     <img src="test_img/hive_ntu_6.png" width="720">
 </div>
 
 ### Enhanced image by HTC-BM3D
 <div align="center">
-     <img src="test_img/htc_bm3d_hive_6.png" width="120">
+     <img src="test_img/htc_bm3d_hive_6.png" width="720">
 </div>
 
 ### References
