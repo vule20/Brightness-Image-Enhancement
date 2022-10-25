@@ -9,14 +9,13 @@ Two parameters in HTC_BM3D.m is the path to a low light image and sigma, which d
 run demo.m
 ```
 
-### Original low light image
 <div align="center">
-     <img src="test_img/hive_ntu_6.png" width="720">
+     <img src="test_img/hive_ntu_6.png" width="720" title="Original low light image">
 </div>
 
-### Enhanced image by HTC-BM3D
+
 <div align="center">
-     <img src="test_img/htc_bm3d_hive_6.png" width="720">
+     <img src="test_img/htc_bm3d_hive_6.png" width="720" title="Enhanced image by HTC-BM3D">
 </div>
 
 ### References
